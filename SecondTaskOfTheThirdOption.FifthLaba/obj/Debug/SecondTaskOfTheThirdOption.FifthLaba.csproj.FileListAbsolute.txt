@@ -1,0 +1,16 @@
+E:\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\bin\Debug\SecondTaskOfTheThirdOption.FifthLaba.exe
+E:\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\bin\Debug\SecondTaskOfTheThirdOption.FifthLaba.pdb
+E:\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.csprojResolveAssemblyReference.cache
+E:\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.exe
+E:\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.pdb
+K:\Labs-Programmers\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\bin\Debug\SecondTaskOfTheThirdOption.FifthLaba.exe
+K:\Labs-Programmers\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\bin\Debug\SecondTaskOfTheThirdOption.FifthLaba.pdb
+K:\Labs-Programmers\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.csprojAssemblyReference.cache
+K:\Labs-Programmers\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.csproj.CoreCompileInputs.cache
+K:\Labs-Programmers\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.exe
+K:\Labs-Programmers\1\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.pdb
+G:\aaaaaaaa\2\Lab1\SecondTaskOfTheThirdOption.FifthLaba\bin\Debug\SecondTaskOfTheThirdOption.FifthLaba.exe
+G:\aaaaaaaa\2\Lab1\SecondTaskOfTheThirdOption.FifthLaba\bin\Debug\SecondTaskOfTheThirdOption.FifthLaba.pdb
+G:\aaaaaaaa\2\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.csprojResolveAssemblyReference.cache
+G:\aaaaaaaa\2\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.exe
+G:\aaaaaaaa\2\Lab1\SecondTaskOfTheThirdOption.FifthLaba\obj\Debug\SecondTaskOfTheThirdOption.FifthLaba.pdb
