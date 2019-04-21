@@ -9,3 +9,9 @@ D:\Labs-Programmers\1\Lab1\FirstTaskOfTheSecondOption.FifthLaba\bin\Debug\FirstT
 D:\Labs-Programmers\1\Lab1\FirstTaskOfTheSecondOption.FifthLaba\obj\Debug\FirstTaskOfTheSecondOption.FifthLaba.csprojResolveAssemblyReference.cache
 D:\Labs-Programmers\1\Lab1\FirstTaskOfTheSecondOption.FifthLaba\obj\Debug\FirstTaskOfTheSecondOption.FifthLaba.exe
 D:\Labs-Programmers\1\Lab1\FirstTaskOfTheSecondOption.FifthLaba\obj\Debug\FirstTaskOfTheSecondOption.FifthLaba.pdb
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheSecondOption.FifthLaba\bin\Debug\FirstTaskOfTheSecondOption.FifthLaba.exe
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheSecondOption.FifthLaba\bin\Debug\FirstTaskOfTheSecondOption.FifthLaba.pdb
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheSecondOption.FifthLaba\obj\Debug\FirstTaskOfTheSecondOption.FifthLaba.csprojAssemblyReference.cache
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheSecondOption.FifthLaba\obj\Debug\FirstTaskOfTheSecondOption.FifthLaba.csproj.CoreCompileInputs.cache
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheSecondOption.FifthLaba\obj\Debug\FirstTaskOfTheSecondOption.FifthLaba.exe
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheSecondOption.FifthLaba\obj\Debug\FirstTaskOfTheSecondOption.FifthLaba.pdb
