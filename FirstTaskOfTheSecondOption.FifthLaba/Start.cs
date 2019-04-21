@@ -4,6 +4,10 @@ namespace FirstTaskOfTheSecondOption.FifthLaba
 {
     public class Start
     {
+        /// <summary>
+        /// Проверка работы класса Time
+        /// </summary>
+        /// 
         public static void Main(string[] args)
         {
             try

@@ -7,7 +7,8 @@ namespace FirstTaskOfTheSecondOption.FifthLaba
         private int _hour;
         private int _minute;
         private int _second;
-
+        
+        
         public Time(int hour, int minute, int second)
         {
             _hour = GetHourValue(hour);

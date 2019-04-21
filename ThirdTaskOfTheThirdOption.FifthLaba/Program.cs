@@ -19,16 +19,25 @@ namespace ThirdTaskOfTheThirdOption.FifthLaba
         }
         private static Student[] GetListStudents()
         {
-            var file = new StreamReader(SourceFilePath);
-            int n = Convert.ToInt32(file.ReadLine());
-            Student[] students = new Student[n];
-            string fileLine;
-            int pos = 0;
-            while ((fileLine = file.ReadLine()) != null)
+            Student[] students;
+            try
             {
-                students[pos++] = GetNewStudent(fileLine);
+                var file = new StreamReader(SourceFilePath);
+                int n = Convert.ToInt32(file.ReadLine());
+                students = new Student[n];
+                string fileLine;
+                int pos = 0;
+                while ((fileLine = file.ReadLine()) != null)
+                {
+                    students[pos++] = GetNewStudent(fileLine);
+                }
+                file.Close();
             }
-            file.Close();
+            catch (Exception)
+            {
+                Console.WriteLine("Файл не удалось открыть, проверте путь");
+                throw;
+            }
             return students;
         }
         private static Student GetNewStudent(string fileLine)
@@ -41,14 +50,22 @@ namespace ThirdTaskOfTheThirdOption.FifthLaba
         }
         private static void WriteToFileStudents(Students students)
         {
-            StreamWriter file = new StreamWriter(OutputFilePath);
-
-            var quantity = students.GetQuantity();
-            for (int index = 0; index < quantity; index++)
+            try
             {
-                file.WriteLine(students.GetByIndex(index).GetName());
+                StreamWriter file = new StreamWriter(OutputFilePath);
+
+                var quantity = students.GetQuantity();
+                for (int index = 0; index < quantity; index++)
+                {
+                    file.WriteLine(students.GetByIndex(index).GetName());
+                }
+                file.Close();
             }
-            file.Close();
+            catch (Exception)
+            {
+                Console.WriteLine("Не удалось записать данные в файл, проверте путь");
+                throw;
+            }
         }
     }
 }
