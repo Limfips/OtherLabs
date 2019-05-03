@@ -1,0 +1,17 @@
+J:\Labs-Programmers\1\Lab1\Lab_3_v_1\bin\Debug\Lab_3_v_1.exe
+J:\Labs-Programmers\1\Lab1\Lab_3_v_1\bin\Debug\Lab_3_v_1.pdb
+J:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.csprojAssemblyReference.cache
+J:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.csproj.CoreCompileInputs.cache
+J:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.exe
+J:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.pdb
+K:\Labs-Programmers\1\Lab1\Lab_3_v_1\bin\Debug\Lab_3_v_1.exe
+K:\Labs-Programmers\1\Lab1\Lab_3_v_1\bin\Debug\Lab_3_v_1.pdb
+K:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.exe
+K:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.pdb
+D:\Labs-Programmers\1\Lab1\Lab_3_v_1\bin\Debug\Lab_3_v_1.exe
+D:\Labs-Programmers\1\Lab1\Lab_3_v_1\bin\Debug\Lab_3_v_1.pdb
+D:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.csprojResolveAssemblyReference.cache
+D:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.exe
+D:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.pdb
+K:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.csprojAssemblyReference.cache
+K:\Labs-Programmers\1\Lab1\Lab_3_v_1\obj\Debug\Lab_3_v_1.csproj.CoreCompileInputs.cache

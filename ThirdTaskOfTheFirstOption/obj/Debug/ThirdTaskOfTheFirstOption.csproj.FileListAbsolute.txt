@@ -1,0 +1,17 @@
+K:\Labs-Programmers\1\Lab1\ThirdTaskOfTheFirstOption\bin\Debug\ThirdTaskOfTheFirstOption.exe
+K:\Labs-Programmers\1\Lab1\ThirdTaskOfTheFirstOption\bin\Debug\ThirdTaskOfTheFirstOption.pdb
+K:\Labs-Programmers\1\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.csprojAssemblyReference.cache
+K:\Labs-Programmers\1\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.csproj.CoreCompileInputs.cache
+K:\Labs-Programmers\1\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.exe
+K:\Labs-Programmers\1\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.pdb
+E:\1\Lab1\ThirdTaskOfTheFirstOption\bin\Debug\ThirdTaskOfTheFirstOption.exe
+E:\1\Lab1\ThirdTaskOfTheFirstOption\bin\Debug\ThirdTaskOfTheFirstOption.pdb
+E:\1\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.csprojResolveAssemblyReference.cache
+E:\1\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.exe
+E:\1\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.pdb
+D:\aaaaaaaa\2\Lab1\ThirdTaskOfTheFirstOption\bin\Debug\ThirdTaskOfTheFirstOption.exe
+D:\aaaaaaaa\2\Lab1\ThirdTaskOfTheFirstOption\bin\Debug\ThirdTaskOfTheFirstOption.pdb
+D:\aaaaaaaa\2\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.csprojAssemblyReference.cache
+D:\aaaaaaaa\2\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.csproj.CoreCompileInputs.cache
+D:\aaaaaaaa\2\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.exe
+D:\aaaaaaaa\2\Lab1\ThirdTaskOfTheFirstOption\obj\Debug\ThirdTaskOfTheFirstOption.pdb

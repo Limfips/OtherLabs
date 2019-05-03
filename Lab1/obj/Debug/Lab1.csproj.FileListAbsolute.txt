@@ -1,0 +1,11 @@
+J:\Labs-Programmers\1\Lab1\Lab1\bin\Debug\Lab1.exe
+J:\Labs-Programmers\1\Lab1\Lab1\bin\Debug\Lab1.pdb
+J:\Labs-Programmers\1\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+J:\Labs-Programmers\1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+J:\Labs-Programmers\1\Lab1\Lab1\obj\Debug\Lab1.exe
+J:\Labs-Programmers\1\Lab1\Lab1\obj\Debug\Lab1.pdb
+K:\Labs-Programmers\1\Lab1\Lab1\bin\Debug\Lab1.exe
+K:\Labs-Programmers\1\Lab1\Lab1\bin\Debug\Lab1.pdb
+K:\Labs-Programmers\1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+K:\Labs-Programmers\1\Lab1\Lab1\obj\Debug\Lab1.exe
+K:\Labs-Programmers\1\Lab1\Lab1\obj\Debug\Lab1.pdb

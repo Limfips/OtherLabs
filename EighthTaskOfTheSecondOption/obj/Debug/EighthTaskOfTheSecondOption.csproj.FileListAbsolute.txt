@@ -1,0 +1,16 @@
+K:\Labs-Programmers\1\Lab1\EighthTaskOfTheSecondOption\bin\Debug\EighthTaskOfTheSecondOption.exe
+K:\Labs-Programmers\1\Lab1\EighthTaskOfTheSecondOption\bin\Debug\EighthTaskOfTheSecondOption.pdb
+K:\Labs-Programmers\1\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.csprojAssemblyReference.cache
+K:\Labs-Programmers\1\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.csproj.CoreCompileInputs.cache
+K:\Labs-Programmers\1\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.exe
+K:\Labs-Programmers\1\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.pdb
+E:\1\Lab1\EighthTaskOfTheSecondOption\bin\Debug\EighthTaskOfTheSecondOption.exe
+E:\1\Lab1\EighthTaskOfTheSecondOption\bin\Debug\EighthTaskOfTheSecondOption.pdb
+E:\1\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.csprojResolveAssemblyReference.cache
+E:\1\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.exe
+E:\1\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.pdb
+F:\aaaaaaaa\2\Lab1\EighthTaskOfTheSecondOption\bin\Debug\EighthTaskOfTheSecondOption.exe
+F:\aaaaaaaa\2\Lab1\EighthTaskOfTheSecondOption\bin\Debug\EighthTaskOfTheSecondOption.pdb
+F:\aaaaaaaa\2\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.csprojResolveAssemblyReference.cache
+F:\aaaaaaaa\2\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.exe
+F:\aaaaaaaa\2\Lab1\EighthTaskOfTheSecondOption\obj\Debug\EighthTaskOfTheSecondOption.pdb

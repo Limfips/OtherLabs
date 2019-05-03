@@ -1,0 +1,6 @@
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheFirstOption\bin\Debug\FirstTaskOfTheFirstOption.exe
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheFirstOption\bin\Debug\FirstTaskOfTheFirstOption.pdb
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheFirstOption\obj\Debug\FirstTaskOfTheFirstOption.csprojAssemblyReference.cache
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheFirstOption\obj\Debug\FirstTaskOfTheFirstOption.csproj.CoreCompileInputs.cache
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheFirstOption\obj\Debug\FirstTaskOfTheFirstOption.exe
+D:\aaaaaaaa\2\Lab1\FirstTaskOfTheFirstOption\obj\Debug\FirstTaskOfTheFirstOption.pdb

@@ -1,0 +1,6 @@
+K:\Labs-Programmers\1\Lab1\Lab_6_v_1\bin\Debug\Lab_6_v_1.exe
+K:\Labs-Programmers\1\Lab1\Lab_6_v_1\bin\Debug\Lab_6_v_1.pdb
+K:\Labs-Programmers\1\Lab1\Lab_6_v_1\obj\Debug\Lab_6_v_1.csprojAssemblyReference.cache
+K:\Labs-Programmers\1\Lab1\Lab_6_v_1\obj\Debug\Lab_6_v_1.csproj.CoreCompileInputs.cache
+K:\Labs-Programmers\1\Lab1\Lab_6_v_1\obj\Debug\Lab_6_v_1.exe
+K:\Labs-Programmers\1\Lab1\Lab_6_v_1\obj\Debug\Lab_6_v_1.pdb

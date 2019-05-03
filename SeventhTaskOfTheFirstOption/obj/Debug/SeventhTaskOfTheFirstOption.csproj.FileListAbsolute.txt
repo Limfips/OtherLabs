@@ -1,0 +1,6 @@
+K:\Labs-Programmers\1\Lab1\SeventhTaskOfTheFirstOption\bin\Debug\SeventhTaskOfTheFirstOption.exe
+K:\Labs-Programmers\1\Lab1\SeventhTaskOfTheFirstOption\bin\Debug\SeventhTaskOfTheFirstOption.pdb
+K:\Labs-Programmers\1\Lab1\SeventhTaskOfTheFirstOption\obj\Debug\SeventhTaskOfTheFirstOption.csprojAssemblyReference.cache
+K:\Labs-Programmers\1\Lab1\SeventhTaskOfTheFirstOption\obj\Debug\SeventhTaskOfTheFirstOption.csproj.CoreCompileInputs.cache
+K:\Labs-Programmers\1\Lab1\SeventhTaskOfTheFirstOption\obj\Debug\SeventhTaskOfTheFirstOption.exe
+K:\Labs-Programmers\1\Lab1\SeventhTaskOfTheFirstOption\obj\Debug\SeventhTaskOfTheFirstOption.pdb
